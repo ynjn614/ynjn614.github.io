@@ -3,24 +3,31 @@ layout: about
 ---
 
 # About Me
-There is no specific format here. You can fill out the form you want.  
-For example, you might want to write a brief introduction about your self, experience, interests, publications, and other information.  
-I wrote "about me", "career", and "interests" on this page as an example.  
+융합디자인학부와 국방XR학부를 융합전공하고 있는 24781010 양윤진입니다.
+
+디자인과 기술의 결합에 관심이 있으며,  
+UX/UI 디자인, XR 콘텐츠, 영상 및 인터랙티브 콘텐츠를 중심으로 공부하고 있습니다.
 
 <br/>
 
 # Career
-* Second Company (2012/01 ~ )
-  * Web Application Firewall
-    * Developed TCP network acceleration module.
-    * Developde Application User Interface.
-* First Company (2011/01 ~ 2011/12)
-  * VPN Development Company
-  * Team Leader of VPN Development Div.
+- Adobe Certified Professional (ACP)
 
 <br/>
 
 # Interests
-I am interested in technology trends.  
-I'm not afraid to learn languages, but I enjoy using Python.  
-I like to automate and reduce annoying things.  
+- UX/UI Design
+- XR / Metaverse
+- Interactive Content
+- Branding
+- Video Editing
+- Generative AI
+- User Experience Research
+
+<br/>
+
+# Skills
+- Figma
+- Adobe Illustrator
+- Adobe Photoshop
+- Adobe Premiere Pro
