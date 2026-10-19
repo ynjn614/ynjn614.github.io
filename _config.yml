@@ -1,14 +1,14 @@
 # Site settings
-title: A.P
+title: Yoonjin's Portfolio
 baseurl: "/ap"
-url: "https://kssim.github.io"
+url: "https://YoonJinYang.github.io"
 google_analytics: # Tracking ID, e.g. "UA-000000-01"
 
 # Author
 author:
-  name: KyeongSeob Sim
+  name: KYoonJin Yang
   desc: Hello nice to meet you
-  email: ksub0912@gmail.com
+  email: ynjn614@naver.com
   selfie: assets/img/profile.jpg
 
 # social
@@ -17,13 +17,13 @@ social:
   behance:
   bitbucket:
   dribbble:
-  facebook: Test
+  facebook:
   flickr:
-  github: kssim
+  github: ynjn614
   google_plus:
-  instagram:
+  instagram: y_y0_0n_n
   keybase:
-  linkedin: https://www.linkedin.com/in/kssim/ 
+  linkedin:
   pinterest:
   reddit:
   soundcloud:
@@ -31,7 +31,7 @@ social:
   steam:
   tumblr:
   gitlab:
-  twitter: Test
+  twitter:
   vimeo:
   wordpress:
   youtube:
